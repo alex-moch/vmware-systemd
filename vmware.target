@@ -3,7 +3,6 @@ Description=VMware Workstation Service(s)
 Requires=vmware-vmmon.service
 Wants=vmware-vmci.service
 Wants=vmware-vmsock.service
-Wants=vmware-vmblock.service
 Wants=vmware-vmnet.service
 Wants=vmware-usb.service
 

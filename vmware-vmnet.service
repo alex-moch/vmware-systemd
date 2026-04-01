@@ -1,6 +1,6 @@
 [Unit]
 Description=VMware Virtual Ethernet
-After=vmware-vmblock.service
+After=vmware-vmci.service
 PartOf=vmware.target
 
 [Service]

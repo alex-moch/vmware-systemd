@@ -10,7 +10,6 @@ While in the process of switching, I realized that I was going to have trouble w
 * vmware-vmci.service (Virtual machine communication interface)
 * vmware-vmsock.service (VMCI Socket Family)
 * vmware-vmnet.service (Virtual ethernet)
-* vmware-vmblock.service (Blocking file system)
 * vmware-authentication.service (Authentication Daemon)
 * vmware-usb.service (USB Arbitration Service)
  
